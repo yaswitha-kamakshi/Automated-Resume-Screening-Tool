@@ -1,0 +1,28 @@
+NAME: Rahul Sharma
+EMAIL: rahul@example.com
+
+CAREER OBJECTIVE:
+Seeking an entry-level Python Developer position
+to apply my programming and analytical skills.
+
+EDUCATION:
+B.Tech in Computer Science
+Graduation Year: 2026
+
+TECHNICAL SKILLS:
+Python
+SQL
+Machine Learning
+Data Structures
+Pandas
+NumPy
+
+PROJECTS:
+1. Student Performance Prediction
+2. Library Management System
+
+EXPERIENCE:
+Fresher
+
+CERTIFICATIONS:
+Python Programming

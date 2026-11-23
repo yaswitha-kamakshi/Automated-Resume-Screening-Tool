@@ -1,0 +1,25 @@
+JOB TITLE: Python Developer
+
+JOB DESCRIPTION:
+
+We are looking for an entry-level Python Developer.
+
+REQUIRED SKILLS:
+Python
+SQL
+Machine Learning
+Pandas
+NumPy
+Data Structures
+
+EDUCATION:
+B.Tech in Computer Science or related field.
+
+EXPERIENCE:
+Freshers can apply.
+
+RESPONSIBILITIES:
+1. Develop Python applications.
+2. Work with databases.
+3. Analyse and process data.
+4. Understand basic machine learning concepts.

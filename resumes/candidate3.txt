@@ -1,0 +1,27 @@
+NAME: Arjun Kumar
+EMAIL: arjun@example.com
+
+CAREER OBJECTIVE:
+Looking for an entry-level Data Analyst position.
+
+EDUCATION:
+B.Tech in Information Technology
+Graduation Year: 2026
+
+TECHNICAL SKILLS:
+Python
+HTML
+CSS
+SQL
+Excel
+Data Analysis
+
+PROJECTS:
+1. Sales Data Analysis
+2. Personal Portfolio Website
+
+EXPERIENCE:
+Fresher
+
+CERTIFICATIONS:
+Data Analytics Fundamentals

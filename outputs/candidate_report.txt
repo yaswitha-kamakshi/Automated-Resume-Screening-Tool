@@ -1,0 +1,21 @@
+AUTOMATED RESUME SCREENING REPORT
+========================================
+
+Candidate: candidate1.txt
+Matching Score: 100.0%
+Matched Skills: data structures, pandas, machine learning, numpy, sql, python
+Missing Skills: 
+----------------------------------------
+
+Candidate: candidate3.txt
+Matching Score: 33.33%
+Matched Skills: sql, python
+Missing Skills: data structures, pandas, machine learning, numpy
+----------------------------------------
+
+Candidate: candidate2.txt
+Matching Score: 16.67%
+Matched Skills: data structures
+Missing Skills: pandas, machine learning, numpy, sql, python
+----------------------------------------
+

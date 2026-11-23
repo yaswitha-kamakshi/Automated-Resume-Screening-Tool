@@ -1,0 +1,27 @@
+NAME: Priya Reddy
+EMAIL: priya@example.com
+
+CAREER OBJECTIVE:
+Seeking an entry-level Software Developer position.
+
+EDUCATION:
+B.Tech in Computer Science
+Graduation Year: 2026
+
+TECHNICAL SKILLS:
+Java
+C
+Data Structures
+HTML
+CSS
+MySQL
+
+PROJECTS:
+1. Online Shopping System
+2. Student Attendance Management
+
+EXPERIENCE:
+Fresher
+
+CERTIFICATIONS:
+Java Programming
