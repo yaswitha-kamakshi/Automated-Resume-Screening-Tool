@@ -135,6 +135,20 @@ Matching Percentage = (Number of Matched Required Skills / Total Required Skills
 
 The score represents skill overlap only, not the candidate's overall suitability.
 
+## 📸 Project Screenshots
+
+### 1. Main Application
+![Main Application](screenshots/main-app.png)
+
+### 2. Resume Analysis Results
+![Analysis Results](screenshots/analysis-results.png)
+
+### 3. Dashboard and Candidate Ranking
+![Dashboard](screenshots/dashboard.png)
+
+### 4. GitHub Repository
+![GitHub Repository](screenshots/github-repository.png)
+
 ## 🎯 Learning Outcomes
 
 Through this project, I gained practical experience in:
